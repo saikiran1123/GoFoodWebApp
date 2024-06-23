@@ -1,6 +1,7 @@
 Food Web Application
 This project is a Food Web Application built using the MERN stack. The application allows users to browse, search, and order various food items from different restaurants. It includes features like user authentication, order management, and a responsive user interface.
 
+
 Table of Contents
 Introduction
 Features
