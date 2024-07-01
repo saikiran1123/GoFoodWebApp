@@ -34,3 +34,6 @@ This indicate the copyright, year and the company name of the restarent.
 
 ### Navbar
 This show the options for the user like Home , MyOrders, Signup, Login, Logout , cart so that user can directly navigate to that page.
+
+### ContextReducer
+This page provides a context and a reducer to manage the state of a shopping cart in a React application. It includes actions to add, remove, update, and clear items in the cart.
