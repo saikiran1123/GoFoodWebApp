@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:5000) to view it in your browser.
 
 ## Components
 
-###Card
+### Card
 This contains the food item image, price, quantity, size. The total amount is showed after applying all the changes for the item as per requirements.
 
 ###Carousel: This will show the special fooditems of the day in the restarent.
