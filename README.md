@@ -14,10 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### 'nodemon ./index.js'
+### `nodemon ./index.js`
 
 This command in the  backend directory will start the server and will connect to the mongoDB database.
 
-### 'npm start'
+### `npm start`
 
 This command will start the client side server and access the data from the database.
